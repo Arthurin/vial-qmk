@@ -38,6 +38,9 @@ quantum/version.h
 *.uf2
 *.vfw
 
+# On garde mes sauvegardes du fichier .uf2 pour reboot si besoin
+!0 - Configuration clavier Sofle Choc/*.uf2 
+
 # DD config at wrong location
 /keyboards/**/keymaps/*/info.json
 /keyboards/**/keymaps/*/keyboard.json

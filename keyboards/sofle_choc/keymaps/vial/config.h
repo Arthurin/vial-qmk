@@ -23,7 +23,8 @@
 // is the slave.
 //
 // I've found this helps with some ProMicros where the slave does not boot
-#define SPLIT_USB_DETECT
+// 25/09/25 : I removed SPLIT_USB_DETECT because my keyboard doesn't work until I reconnect it see https://www.reddit.com/r/olkb/comments/14cruyi/keyboard_doesnt_work_until_i_reconnect_it/
+//#define SPLIT_USB_DETECT
 
 #define RGB_DISABLE_WHEN_USB_SUSPENDED     // turn off effects when suspended
 #define SPLIT_TRANSPORT_MIRROR             // If LED_MATRIX_KEYPRESSES or LED_MATRIX_KEYRELEASES is enabled, you also will want to enable SPLIT_TRANSPORT_MIRROR
