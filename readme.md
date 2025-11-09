@@ -1,3 +1,7 @@
+v2.3 J’ai du mal à m’habituer à la config red pills proposée sur le site d’ergol. 
+v2.4 print screen + On va revenir en arrière en retirant des fonctionnalité comme le layer tap et vérifier 
+la meilleure place pour espace, bck-space, shift…
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
