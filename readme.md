@@ -1,6 +1,10 @@
 v2.3 J’ai du mal à m’habituer à la config red pills proposée sur le site d’ergol. 
 v2.4 print screen + On va revenir en arrière en retirant des fonctionnalité comme le layer tap et vérifier 
 la meilleure place pour espace, bck-space, shift…
+9/11/25 : très agréable de retrouver la touche espace à ma droite, par contre la touche backspace
+je ne sais toujours pas si elle est à la bonne place je trouve ça dure à utiliser.
+J’essaie de m’habituer à la touche shift sous l’index pour ne pas avoir à utiliser mon pouce gauche
+trop souvent car c’est perturbant. 32wpm et 97% avec la ponctuation
 
 # Quantum Mechanical Keyboard Firmware
 
